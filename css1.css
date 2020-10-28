@@ -1,0 +1,222 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+
+    background-color: lightskyblue;
+
+    font-family: 'Assistant', sans-serif;
+}
+
+.container
+{
+    max-width: 1000px;
+
+    background-color: powderblue;
+
+    margin: 0 auto;
+
+    padding: 15px;
+}
+
+.profile-image
+{
+    width: 130px;
+    height: 150px;
+    border: lightslategrey solid 3px;
+    border-radius: 50%;
+    float: left;
+}
+
+.head-info
+{
+    float: left;
+    padding: 30px;
+}
+
+.h1-fonts
+{
+    color: rgb(85, 92, 92);
+    
+}
+
+.h4-fonts
+{
+    color: rgb(85, 92, 92);
+}
+
+.contact
+{
+    float: right;
+
+    padding: 40px;
+
+    
+}
+
+.contact a
+{
+    text-decoration: none;
+    color: rgb(3, 49, 87);
+}
+
+.contact h4 :hover
+{
+    text-decoration: underline;
+    color: blue;
+}
+
+.div-clear
+{
+    clear: both;
+}
+
+hr
+{
+    border: 1px solid  rgb(3, 49, 87) ;
+    width: 100%;
+    margin: 30 auto;
+}
+
+
+/*
+
+personal section css starts here
+
+*/
+
+
+.content
+{
+
+}
+
+
+.left_div
+{
+    width: 30%;
+    float: left;
+
+    margin-top: 2%;
+
+    color: rgb(85, 92, 92);
+
+    
+
+}
+
+.right_div
+{
+    width: 70%;
+    float: left;
+
+    margin-top: 2%;
+
+    font-size: 100%;
+
+    font-family: 'Times New Roman', Times, serif
+
+    color: 
+
+    
+
+}
+
+
+.common_hr
+{
+    border: black solid 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+
+    margin-top: 2%;
+}
+
+
+.details
+{
+    color: rgb(85, 92, 92);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.content_work
+{
+
+}
+
+.left_div_work
+{
+    width: 30%;
+    float: left;
+
+    margin-top: 0%;
+
+    color: rgb(85, 92, 92);
+}
+
+.right_div_work
+{
+    width: 70%;
+    float: left;
+
+    margin-top: 0%;
+
+    font-size: 100%;
+
+    font-family: 'Times New Roman', Times, serif
+
+    color: 
+}
+
+.details_work
+{
+    color: rgb(85, 92, 92);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-top: 4px;
+}
+
+
+.contact_cf
+{
+    
+
+    padding: 10px;
+    text-decoration: none;
+    color: red
+    
+}
+
+
+
+
+.footer
+{
+    background-color: rgb(33, 58, 55);
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin-top: 20px;
+}
+
+.footer a
+{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    
+}
+
+.footer :hover
+{
+    text-decoration: underline;
+}
+
+.copy_class
+{
+    padding: 10px;
+}
